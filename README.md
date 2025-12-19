@@ -5,6 +5,7 @@ https://retail-analysis-dashboard-8re74ennan5eydvgmc6n2y.streamlit.app/
 
 ## Overview
 This project focuses on analyzing retail performance through an interactive dashboard. It helps understand sales trends, product performance, and inventory behavior across different stores and suppliers. A sample dataset covering the years 2024–2025 is preloaded for demonstration and analysis.
+The Jupyter notebook contains exploratory data analysis used during development, while the Streamlit app serves as the final interactive dashboard.
 
 ## Tech Stack
 Python, Streamlit, Pandas, NumPy, Matplotlib, Plotly, Git, GitHub
@@ -39,3 +40,4 @@ cd retail-analysis-dashboard
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
